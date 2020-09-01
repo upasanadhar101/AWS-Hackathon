@@ -3,7 +3,7 @@
 1. How the air quality is impacted post covid times with several countries imposing strict lockdown policies.
 2. Can this be a future strategy to implement cleaner climate ??
 
-# METHOD USED:  
+# Method used:  
 Data visualization and Data analysis of temporal variation in Cumultaive average pollutant concentration through years of 2017 to 2020. 
 
 We calculated the cumulative average concentartion of pollutants for each individual cities in different countries and observed how they changed through 2015 to 2020. Since AQI (air quality index) is not available for all cities and countries, we use the cumulative average pollutant concentration in pur fianl data analysis.
@@ -11,7 +11,7 @@ We assume atmospheric conditions are constant among each countries throughout th
 First we grouoed the dataset based on cities and found the mean concntration of pollutants for each cities in respective countries. The we used the rating to check the number of cities with low, moderate and high average pollutant concentrations and whether the number of cities falling in these crtieria increases or decreases through the years. 
 We treat our inferences based on the values observed in 2020 as post-coovid data and values from year 2015-2019 as pre-covid data.
 
-# RESULT AND DISCUSSION:
+# Result and Discussion:
 
 The number of cities falling within higher to moderate pollutant concentration range decreases in the year 2020 (post-covid time) with respect to the previous years (pre-covid time). 
 We also observe that the maximum average pollutant concentration throughout the world observed in 2020 ( post covid time) has decreased significantly with respect to 2019 with decrease% of about 52%. The cities of respective countries with higher average pollutant concentration in 2020 are Israel and India. 
