@@ -23,6 +23,6 @@ We saw that the count of number of cities showing good/healthy conditions with l
 
 # Conclusion
 From the lower number of cities showing higher pollutant concentration in post covid time in the year 2020, we infer that the average pollutant concentration lowered during post-covid time over certain cities due to lockdwon and consecutively less traffic. However, since other factors like atmospheric conditions, dust formation etc. in an area also contributes to pollutant concentration, the count of number of cities showing good/healthy conditions with lower average pollutant concnetration is less at 2020 in post covid time with respect to pre covid time at 2019 when the count was higher. Also, certain cities like Delhi in India shows approximately the same pollutant concentration throughput and there is not much change in post covid times. 
-The lockdown does help in lowering traffic in certain regions and corresponding lowering of regional pollutant concentrations. 
+The lockdown does help in lowering traffic in certain regions and corresponding lowering of certain regional pollutant concentrations but other factors play a role in the air quality as well. 
 
 Limitation of this study:- The number of data points collected for each cities vary through years and the cumulative average is based on the data avaialable. This results in some biasness when we are comparing the average concentrations among cities. 
