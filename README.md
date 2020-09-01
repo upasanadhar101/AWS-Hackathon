@@ -4,7 +4,7 @@
 2. Can this be a future strategy to implement cleaner climate ??
 
 # Method used:  
-Data visualization for temporal change in air quality indces and individual pollutants like carbon monoxide, ozone, particulate matter, sulphur dioxide, nitrogen oxides have been ploted on world map. Along with it, data analysis of temporal variation in cumultaive average pollutant concentration through years of 2015 to 2020, has been presented. 
+Data visualization for temporal change in air quality indices and individual pollutants like carbon monoxide, ozone, particulate matter, sulphur dioxide, nitrogen oxides have been plotted on world map. Along with it, data analysis of temporal variation in cumultaive average pollutant concentration through years of 2015 to 2020, has been presented. 
 
 We calculated the cumulative average concentartion of pollutants for each individual cities in different countries and observed how they changed through 2015 to 2020. Since AQI (air quality index) is not available for all cities and countries, we use the cumulative average pollutant concentration in pur final data analysis.
 We assume atmospheric conditions are constant among each countries throughout the years. 
