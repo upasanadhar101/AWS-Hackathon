@@ -6,7 +6,7 @@
 # Method used:  
 Data visualization for temporal change in air quality indices and individual pollutants like carbon monoxide, ozone, particulate matter, sulphur dioxide, nitrogen oxides have been plotted on world map. Along with it, data analysis of temporal variation in cumultaive average pollutant concentration through years of 2015 to 2020, has been presented. 
 
-We calculated the cumulative average concentartion of pollutants for each individual cities in different countries and observed how they changed through 2015 to 2020. Since AQI (air quality index) is not available for all cities and countries, we use the cumulative average pollutant concentration in pur final data analysis.
+We calculated the cumulative average concentartion of pollutants for each individual cities in different countries and observed how they changed through 2015 to 2020. Since AQI (air quality index) is not available for all cities and countries, we use the cumulative average pollutant concentration in our final data analysis.
 We assume atmospheric conditions are constant among each countries throughout the years. 
 First we grouoed the dataset based on cities and found the mean concntration of pollutants for each cities in respective countries. The we used the rating to check the number of cities with low, moderate and high average pollutant concentrations and whether the number of cities falling in these crtieria increases or decreases through the years. 
 We treat our inferences based on the values observed in 2020 as post-coovid data and values from year 2015-2019 as pre-covid data.
