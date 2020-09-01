@@ -8,7 +8,7 @@ Data visualization for temporal change in air quality indices and individual pol
 
 We calculated the cumulative average concentartion of pollutants for each individual cities in different countries and observed how they changed through 2015 to 2020. Since AQI (air quality index) is not available for all cities and countries, we use the cumulative average pollutant concentration in our final data analysis.
 We assume atmospheric conditions are constant among each countries throughout the years and work with only maximum pollutants generated at each city during each day of the year. 
-First we grouoed the dataset based on cities and found the mean concntration of pollutants for each cities in respective countries. The we used the rating to check the number of cities with low, moderate and high average pollutant concentrations and whether the number of cities falling in these crtieria increases or decreases through the years. 
+First we grouped the dataset based on cities and found the mean concntration of pollutants for each cities for respective countries. The we used the rating to check the number of cities with low, moderate and high average pollutant concentrations and whether the number of cities falling in these crtieria increases or decreases through the years. 
 We treat our inferences based on the values observed in 2020 as post-coovid data and values from year 2015-2019 as pre-covid data.
 
 # Result and Discussion:
