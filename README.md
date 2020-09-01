@@ -20,3 +20,6 @@ However, the count of number of cities with low average pollutant concentartion 
 
 We infer that the average pollutant concentration lowered during post-covid time over ceratin cities due to lockdwon and less traffic. However, since other factorslike atmospheric conditions, dust formation etc. in an area also contributes to pollutant concentration, the count of number of cities showing good/healthy conditions with lower average pollutant concnetration in 2020 is less with about 338 cities with respect to 2019 when the count was 355 cities.
 
+
+# Conclusion
+We infer that the average pollutant concentration lowered during post-covid time over ceratin cities due to lockdwon and less traffic. However, since other factorslike atmospheric conditions, dust formation etc. in an area also contributes to pollutant concentration, the count of number of cities showing good/healthy conditions with lower average pollutant concnetration in 2020 is less with about 338 cities with respect to 2019 when the count was 355 cities.
