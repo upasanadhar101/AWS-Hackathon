@@ -13,7 +13,8 @@ We treat our inferences based on the values observed in 2020 as post-coovid data
 
 # Result and Discussion:
 
-The number of cities falling within higher to moderate pollutant concentration range decreases in the year 2020 (post-covid time) with respect to the previous years (pre-covid time). The count of number of cities showing unhelathy conditions with higher average pollutant concnetration is less in post covid time with about -- cities in 2020 with respect to pre covid time at 2019 when the count of cities with higher pollutant concentration was ---. 
+The number of cities falling within higher to moderate pollutant concentration range decreases in the year 2020 (post-covid time) with respect to the previous years (pre-covid time). Only 4 cities shows unhealthy conditions with higher average pollutant concnetration in post covid time during the year 2020 while 19 cities showed higher average pollutant concentration duirng the year 2019. The number of cities showing higher average pollutant concentration has decreeased from year 2016 to 2020 
+
 We also observe that the maximum average pollutant concentration throughout the world observed in 2020 ( post covid time) has decreased significantly with respect to 2019 with decrease% of about 52%. The cities of respective countries with higher average pollutant concentration in 2020 are Israel and India. 
 
 However, the count of number of cities with low average pollutant concentartion (<=51) is less in 2020 with respect to 2019. The cities of respective countries with lower average pollutant concentration in 2020 are Argentina, Algeria,Taiwan, North Macedonia and Israel.
